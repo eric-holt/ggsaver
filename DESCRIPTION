@@ -1,0 +1,12 @@
+Package: ggsaver
+Title: Easy Saving of ggplot2 Plots
+Version: 0.0.0.9000
+Authors@R: 
+    person("Eric", , , "eric.r.pkg@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0005-8945-2947"))
+Description: Provides a function to easily save ggplot2 plots to a specified directory. The function can be used to save a series of related plots with minimal code. If no file extension is provided, the plot is saved as a PNG.
+License: MIT + file LICENSE
+Imports: ggplot2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
